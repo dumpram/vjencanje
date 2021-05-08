@@ -2,7 +2,7 @@
 
 Crkva u kojoj će se održati vjenčanje nalazi se u Miramarskoj ulici 92 nedaleko od Filozofskog fakulteta. Lokacija:
 
-SLIKA...
+![Župa Svete Tererzije od Djeteta Isusa](https://github.com/dumpram/vjencanje/crkva.png)
 
 ## Divlje vode - upute za dolazak
 

@@ -8,7 +8,7 @@ Crkva u kojoj će se održati vjenčanje nalazi se u Miramarskoj ulici 92 nedale
 
 Biopark Divlje vode nalazi se u Stojdragi 2 u Samoboru. Obzirom da je sala blizu granice sa Slovenijom, **Google Maps ne prikazuje optimalnu rutu za dolazak do sale**. Stoga, **pogledajte upute dolje**:
 
-![Ruta od crkve do sale - Zagreb - Divlje Vode](/ruta_crkva_park.png)
+![Ruta od crkve do sale - Zagreb - Divlje Vode](/ruta_crkva_biopark.png)
 
 Upute za dolazak do sale:
 - krenuti Slavonskom avenijom na zapad Zagreba
